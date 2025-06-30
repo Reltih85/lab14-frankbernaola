@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Lab13_FrankBernaola.Models;
+using Microsoft.Extensions.Logging;
 
 namespace Lab13_FrankBernaola.Controllers;
 
